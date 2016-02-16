@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\bin\Debug\TwoToOne.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\bin\Debug\TwoToOne.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\bin\Debug\TwoToOne.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\TwoToOne\TwoToOne\obj\Debug\TwoToOne.pdb
