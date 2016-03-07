@@ -23,9 +23,17 @@ namespace StackClass
         public String Pop()
         {
             String PopString;
-            PopString = stackList.tail.Value;
-            stackList.DeleteString(stackList.tail);
+            try
+            {
+                PopString = stackList.tail.Value;
+                stackList.DeleteString(stackList.tail);           
+            }
+            catch(NullReferenceException)
+            {
+                throw new Exception("Attempted to pop from an empty stack");
+            }
             return PopString;
+            
         }
 
         public String Peek()

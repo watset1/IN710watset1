@@ -169,5 +169,14 @@ namespace UnitTestProject1
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(System.Exception))]
+        public void PopTestOnEmptyStack()
+        {
+            Stack testStack = new Stack();
+
+            testStack.Pop();
+        }
     }
 }
