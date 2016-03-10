@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Encryption_Tool
 {
-    class Reverse : IEncryptionMachine
+    public class Reverse : IEncryptionMachine
     {
         public Reverse() { }
 
