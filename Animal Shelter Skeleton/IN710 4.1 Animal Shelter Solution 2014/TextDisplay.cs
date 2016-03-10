@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace IN710_4._1_Animal_Shelter_Solution_2014
 {
-    class TextDisplay: IDisplay
+    public class TextDisplay: IDisplay
     {
         public ListBox listBox { get; set; }
 

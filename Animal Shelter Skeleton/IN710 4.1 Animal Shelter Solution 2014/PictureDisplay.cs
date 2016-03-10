@@ -7,7 +7,7 @@ using System.Drawing;
 
 namespace IN710_4._1_Animal_Shelter_Solution_2014
 {
-    class PictureDisplay: IDisplay
+    public class PictureDisplay: IDisplay
     {
         public List<PictureBox> pictureBoxList { get; set; }
 
