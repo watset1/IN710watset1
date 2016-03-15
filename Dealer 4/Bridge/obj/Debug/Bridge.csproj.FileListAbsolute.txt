@@ -1,0 +1,69 @@
+D:\IT321 OO\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\IT321 OO\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\IT321 OO\Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.Form1.resources
+D:\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+D:\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+D:\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.pdb
+F:\Polytech\IT321 OO\Bridge\Bridge\bin\Debug\Bridge.exe
+F:\Polytech\IT321 OO\Bridge\Bridge\bin\Debug\Bridge.pdb
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.Form1.resources
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.exe
+F:\Polytech\IT321 OO\Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\Bridge.Form1.resources
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+C:\Documents and Settings\Trevor\Desktop\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+C:\Documents and Settings\Trevor\Desktop\Trev_Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\Trevor\Desktop\Trev_Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Trev_Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Trev_Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.exe
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.exe
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.exe
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.pdb
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Form1.resources
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+D:\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IT321 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.exe
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.exe
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Form1.resources
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+C:\Users\Patricia\Desktop\IN710 C# 2010\IN710 C# Teaching Sessions 2010\IT710 Practicals\Week 1\IN710 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.exe
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.exe
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Form1.resources
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+C:\Users\Patricia\Desktop\IN710 OOAD 2013\IN710 OOAD 2013 Teaching Sessions\IN710 2013 Session 1.2\IN710 OOAD 2013 Practical 1.2 - Bridge Dealers\Dealer 4\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.exe
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\bin\Debug\Bridge.exe
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\bin\Debug\Bridge.pdb
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.Form1.resources
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 01\Bridge Dealers for Practical\Dealer 4\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\bin\Debug\Bridge.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Dealer 4\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache

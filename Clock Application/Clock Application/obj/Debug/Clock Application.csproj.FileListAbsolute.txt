@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\bin\Debug\Clock Application.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\bin\Debug\Clock Application.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\bin\Debug\Clock Application.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\obj\Debug\Clock_Application.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\obj\Debug\Clock_Application.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\obj\Debug\Clock Application.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\obj\Debug\Clock Application.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Clock Application\Clock Application\obj\Debug\Clock Application.pdb

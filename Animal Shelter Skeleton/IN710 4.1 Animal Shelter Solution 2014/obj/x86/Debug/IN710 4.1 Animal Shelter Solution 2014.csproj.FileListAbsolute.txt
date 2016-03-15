@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\bin\Debug\IN710 4.1 Animal Shelter Solution 2014.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\bin\Debug\IN710 4.1 Animal Shelter Solution 2014.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710_4._1_Animal_Shelter_Solution_2014.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710_4._1_Animal_Shelter_Solution_2014.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Animal Shelter Skeleton\IN710 4.1 Animal Shelter Solution 2014\obj\x86\Debug\IN710 4.1 Animal Shelter Solution 2014.pdb

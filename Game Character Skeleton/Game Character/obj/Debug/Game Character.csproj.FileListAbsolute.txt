@@ -1,0 +1,17 @@
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.exe.config
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.exe
+E:\Users\Patricia\Desktop\Game Character\Game Character\bin\Debug\Game Character.pdb
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.csprojResolveAssemblyReference.cache
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game_Character.Properties.Resources.resources
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.csproj.GenerateResource.Cache
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.exe
+E:\Users\Patricia\Desktop\Game Character\Game Character\obj\Debug\Game Character.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\bin\Debug\Game Character.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game Character.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game Character.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game_Character.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game_Character.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game Character.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\bin\Debug\Game Character.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\bin\Debug\Game Character.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\Game Character\obj\Debug\Game Character.csprojResolveAssemblyReference.cache

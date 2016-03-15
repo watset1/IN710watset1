@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache

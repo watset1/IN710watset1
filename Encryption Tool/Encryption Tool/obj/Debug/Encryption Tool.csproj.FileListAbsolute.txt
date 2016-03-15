@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\bin\Debug\Encryption Tool.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption_Tool.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption_Tool.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption Tool.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\bin\Debug\Encryption Tool.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\bin\Debug\Encryption Tool.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption Tool.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption Tool.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Encryption Tool\Encryption Tool\obj\Debug\Encryption Tool.csprojResolveAssemblyReference.cache

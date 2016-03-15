@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\obj\Debug\StackClass.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\obj\Debug\StackClass.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\bin\Debug\StackClass.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\bin\Debug\StackClass.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\bin\Debug\StackClass.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\obj\Debug\StackClass.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\obj\Debug\StackClass.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\StackClass\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache

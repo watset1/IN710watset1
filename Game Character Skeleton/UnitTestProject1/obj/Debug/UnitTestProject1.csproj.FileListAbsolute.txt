@@ -1,0 +1,7 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\bin\Debug\Game Character.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\bin\Debug\Game Character.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Game Character Skeleton\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
