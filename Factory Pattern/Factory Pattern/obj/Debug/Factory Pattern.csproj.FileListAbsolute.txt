@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory_Pattern.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory_Pattern.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb
