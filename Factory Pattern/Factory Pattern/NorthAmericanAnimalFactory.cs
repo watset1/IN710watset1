@@ -23,6 +23,9 @@ namespace Factory_Pattern
                 case 2:
                     newAnimal = new Wolf();
                     break;
+                case 3:
+                    newAnimal = new Raccoon();
+                    break;
             }
             return newAnimal;
         }

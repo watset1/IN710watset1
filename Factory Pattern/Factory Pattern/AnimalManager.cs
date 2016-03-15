@@ -11,7 +11,7 @@ namespace Factory_Pattern
     public class AnimalManager
     {
         Random rGen = new Random();
-        int nAnimalTypes = 3;
+        int nAnimalTypes = 4;
         NorthAmerica northAmerica;
         Australia australia;       
 
