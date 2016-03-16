@@ -34,9 +34,17 @@ namespace Factory_Pattern
             animalManager.AustralianSim();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ClearDisplay();
+            animalManager.AfricanSim();
+        }
+
         public void ClearDisplay()
         {
             listBox1.Items.Clear();
         }
+
+
     }
 }

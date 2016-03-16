@@ -44,12 +44,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Africa.cs" />
+    <Compile Include="AfricanAnimalFactory.cs" />
     <Compile Include="Animal.cs" />
     <Compile Include="AnimalManager.cs" />
     <Compile Include="Australia.cs" />
     <Compile Include="Bison.cs" />
     <Compile Include="Crocodile.cs" />
     <Compile Include="Eagle.cs" />
+    <Compile Include="Hyena.cs" />
     <Compile Include="IAnimalFactory.cs" />
     <Compile Include="AustralianAnimalFactory.cs" />
     <Compile Include="Continent.cs" />
@@ -61,13 +64,16 @@
     </Compile>
     <Compile Include="Kangaroo.cs" />
     <Compile Include="Koala.cs" />
+    <Compile Include="Lion.cs" />
     <Compile Include="NorthAmerica.cs" />
     <Compile Include="NorthAmericanAnimalFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Raccoon.cs" />
+    <Compile Include="Tiger.cs" />
     <Compile Include="Wolf.cs" />
     <Compile Include="Wombat.cs" />
+    <Compile Include="Zebra.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

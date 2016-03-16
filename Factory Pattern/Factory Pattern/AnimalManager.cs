@@ -13,12 +13,14 @@ namespace Factory_Pattern
         Random rGen = new Random();
         int nAnimalTypes = 4;
         NorthAmerica northAmerica;
-        Australia australia;       
+        Australia australia;
+        Africa africa;
 
         public AnimalManager(ListBox listBox, Graphics canvas)
         {
             northAmerica = new NorthAmerica(listBox, rGen, nAnimalTypes, canvas);
             australia = new Australia(listBox, rGen, nAnimalTypes, canvas);
+            africa = new Africa(listBox, rGen, nAnimalTypes, canvas);
         }
 
         public void AustralianSim()
@@ -29,6 +31,11 @@ namespace Factory_Pattern
         public void NorthAmericanSim()
         {
             northAmerica.RunSimulation();
+        }
+
+        public void AfricanSim()
+        {
+            africa.RunSimulation();
         }
     }
 }
