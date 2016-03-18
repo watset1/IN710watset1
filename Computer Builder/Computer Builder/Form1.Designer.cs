@@ -34,6 +34,7 @@
             this.rdGaming = new System.Windows.Forms.RadioButton();
             this.rdBusiness = new System.Windows.Forms.RadioButton();
             this.rdMultimedia = new System.Windows.Forms.RadioButton();
+            this.rdlaptop = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,6 +61,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.rdlaptop);
             this.groupBox1.Controls.Add(this.rdMultimedia);
             this.groupBox1.Controls.Add(this.rdBusiness);
             this.groupBox1.Controls.Add(this.rdGaming);
@@ -107,6 +109,18 @@
             this.rdMultimedia.Text = "Multimedia";
             this.rdMultimedia.UseVisualStyleBackColor = true;
             // 
+            // rdlaptop
+            // 
+            this.rdlaptop.AutoSize = true;
+            this.rdlaptop.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdlaptop.Location = new System.Drawing.Point(6, 180);
+            this.rdlaptop.Name = "rdlaptop";
+            this.rdlaptop.Size = new System.Drawing.Size(81, 24);
+            this.rdlaptop.TabIndex = 3;
+            this.rdlaptop.TabStop = true;
+            this.rdlaptop.Text = "Laptop";
+            this.rdlaptop.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -131,6 +145,7 @@
         private System.Windows.Forms.RadioButton rdMultimedia;
         private System.Windows.Forms.RadioButton rdBusiness;
         private System.Windows.Forms.RadioButton rdGaming;
+        private System.Windows.Forms.RadioButton rdlaptop;
     }
 }
 

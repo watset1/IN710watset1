@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Computer_Builder
 {
-    public class Gpu : Component
+    public class Motherboard : Component
     {
-        //Add gpu specific properties here
+        //Add motherboard specific properties here
 
-        public Gpu()
+        public Motherboard()
         {
             Name = "";
             Price = 0;

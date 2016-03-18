@@ -8,10 +8,16 @@ namespace Computer_Builder
 {
     public class Ram : Component
     {
+        //Add ram specific properties here
+
         public Ram()
         {
             Name = "";
             Price = 0;
+
+            //add any other values here
         }
+
+        //Other possible methods
     }
 }

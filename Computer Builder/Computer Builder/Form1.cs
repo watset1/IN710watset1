@@ -27,6 +27,8 @@ namespace Computer_Builder
                 currMachineMaker = new BusinessMachineMaker();
             else if(rdMultimedia.Checked)
                 currMachineMaker = new MultimediaMachineMaker();
+            else if(rdlaptop.Checked)
+                currMachineMaker = new LaptopMachineMaker();
 
             MachineSpecPrinter currSpecPrinter = new MachineSpecPrinter(currMachineMaker, listBox1);
             currSpecPrinter.printSpec();

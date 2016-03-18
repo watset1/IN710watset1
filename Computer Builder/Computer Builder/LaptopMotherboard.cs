@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Computer_Builder
 {
-    public interface IMachineMaker
+    public class LaptopMotherboard : Motherboard
     {
-        Cpu makeCpu();
-        Gpu makeGpu();
-        Ram makeRam();
-        Motherboard makeMotherBoard();
+        public LaptopMotherboard()
+        {
+            Name = "A68HM-PLUS";
+            Price = 110;
+        }
     }
 }

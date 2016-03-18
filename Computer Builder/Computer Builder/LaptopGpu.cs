@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Computer_Builder
 {
-    public interface IMachineMaker
+    public class LaptopGpu : Gpu
     {
-        Cpu makeCpu();
-        Gpu makeGpu();
-        Ram makeRam();
-        Motherboard makeMotherBoard();
+        public LaptopGpu()
+        {
+            Name = "GeForce 950M";
+            Price = 250;
+        }
     }
 }

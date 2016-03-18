@@ -27,5 +27,11 @@ namespace Computer_Builder
             Ram ram = new MultimediaRam();
             return ram;
         }
+
+        public Motherboard makeMotherBoard()
+        {
+            Motherboard motherboard = new MultimediaMotherboard();
+            return motherboard;
+        }
     }
 }

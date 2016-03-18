@@ -26,6 +26,12 @@ namespace Computer_Builder
         {
             Ram ram = new BusinessRam();
             return ram;
-        }    
+        } 
+   
+        public Motherboard makeMotherBoard()
+        {
+            Motherboard motherboard = new BusinessMotherboard();
+            return motherboard;
+        }
     }
 }

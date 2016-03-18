@@ -6,31 +6,31 @@ using System.Threading.Tasks;
 
 namespace Computer_Builder
 {
-    public class GamingMachineMaker : IMachineMaker
+    public class LaptopMachineMaker : IMachineMaker
     {
-        public GamingMachineMaker() { }
+        public LaptopMachineMaker() { }
 
         public Cpu makeCpu()
         {
-            Cpu cpu = new GamingCpu();
+            Cpu cpu = new LaptopCpu();
             return cpu;
         }
 
         public Gpu makeGpu()
         {
-            Gpu gpu = new GamingGpu();
+            Gpu gpu = new LaptopGpu();
             return gpu;
         }
 
         public Ram makeRam()
         {
-            Ram ram = new GamingRam();
+            Ram ram = new LaptopRam();
             return ram;
-        }
-
+        } 
+   
         public Motherboard makeMotherBoard()
         {
-            Motherboard motherboard = new GamingMotherboard();
+            Motherboard motherboard = new LaptopMotherboard();
             return motherboard;
         }
     }

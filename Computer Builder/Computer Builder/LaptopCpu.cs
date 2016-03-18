@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Computer_Builder
 {
-    public interface IMachineMaker
+    public class LaptopCpu : Cpu
     {
-        Cpu makeCpu();
-        Gpu makeGpu();
-        Ram makeRam();
-        Motherboard makeMotherBoard();
+        public LaptopCpu()
+        {
+            Name = "Dual Core, i5";
+            Price = 200;
+        }
     }
 }

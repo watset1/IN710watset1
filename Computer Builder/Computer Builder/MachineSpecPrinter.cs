@@ -23,8 +23,9 @@ namespace Computer_Builder
             Cpu currCpu = machineMaker.makeCpu();
             Ram currRam = machineMaker.makeRam();
             Gpu currGpu = machineMaker.makeGpu();
+            Motherboard currMb = machineMaker.makeMotherBoard();
 
-            double totalPrice = currCpu.Price + currRam.Price + currGpu.Price;
+            double totalPrice = currCpu.Price + currRam.Price + currGpu.Price + currMb.Price;
 
             displayBox.Items.Clear();
             displayBox.Items.Add("Price\tComponent");
@@ -32,6 +33,7 @@ namespace Computer_Builder
             displayBox.Items.Add("$" + currCpu.ToString());
             displayBox.Items.Add("$" + currRam.ToString());
             displayBox.Items.Add("$" + currGpu.ToString());
+            displayBox.Items.Add("$" + currMb.ToString());
             displayBox.Items.Add("--------------------------------");
             displayBox.Items.Add("Total Price: $" + totalPrice.ToString());
         }
