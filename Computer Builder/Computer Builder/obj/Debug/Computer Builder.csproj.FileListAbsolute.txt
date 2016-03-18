@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\bin\Debug\Computer Builder.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer Builder.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer_Builder.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer_Builder.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer Builder.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\bin\Debug\Computer Builder.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\bin\Debug\Computer Builder.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer Builder.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Computer Builder\Computer Builder\obj\Debug\Computer Builder.pdb
