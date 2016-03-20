@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\bin\Debug\Model Airplanes.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\bin\Debug\Model Airplanes.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\bin\Debug\Model Airplanes.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model_Airplanes.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model_Airplanes.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model Airplanes.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model Airplanes.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model Airplanes.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Model Airplanes\Model Airplanes\obj\Debug\Model Airplanes.csprojResolveAssemblyReference.cache
