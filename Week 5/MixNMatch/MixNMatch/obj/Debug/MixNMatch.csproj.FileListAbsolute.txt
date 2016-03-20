@@ -1,0 +1,10 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\MixNMatch\MixNMatch\bin\Debug\MixNMatch.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\bin\Debug\MixNMatch.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\bin\Debug\MixNMatch.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\bin\Debug\MixNMatch.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\MixNMatch\MixNMatch\obj\Debug\MixNMatch.pdb

@@ -6,3 +6,6 @@ C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\b
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.pdb
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\Factory Pattern\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 5\Factory Pattern\Factory Pattern\obj\Debug\Factory Pattern.pdb
