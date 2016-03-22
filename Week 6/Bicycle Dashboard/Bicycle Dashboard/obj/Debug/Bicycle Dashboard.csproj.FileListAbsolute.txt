@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\bin\Debug\Bicycle Dashboard.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle_Dashboard.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle_Dashboard.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle Dashboard.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\bin\Debug\Bicycle Dashboard.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\bin\Debug\Bicycle Dashboard.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle Dashboard.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Bicycle Dashboard\Bicycle Dashboard\obj\Debug\Bicycle Dashboard.pdb
