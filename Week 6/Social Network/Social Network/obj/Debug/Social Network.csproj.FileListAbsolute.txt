@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\bin\Debug\Social Network.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\bin\Debug\Social Network.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\bin\Debug\Social Network.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social_Network.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social_Network.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social Network.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social Network.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social Network.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Social Network\Social Network\obj\Debug\Social Network.csprojResolveAssemblyReference.cache

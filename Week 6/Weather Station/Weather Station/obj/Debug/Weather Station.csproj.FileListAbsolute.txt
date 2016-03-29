@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\bin\Debug\Weather Station.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather_Station.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather_Station.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather Station.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\bin\Debug\Weather Station.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\bin\Debug\Weather Station.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather Station.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather Station.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 6\Weather Station\Weather Station\obj\Debug\Weather Station.csprojResolveAssemblyReference.cache
