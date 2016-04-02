@@ -8,8 +8,6 @@ namespace Quiz_Night
 {
     public class ScoreManager
     {
-        public enum Team : int { ADULT, CHILD}
-
         public delegate int ScoreDelegate(int correct, int incorrect);
         ScoreDelegate scoreComputer;
  
