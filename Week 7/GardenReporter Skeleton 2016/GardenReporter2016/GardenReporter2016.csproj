@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="AreaReportMaker.cs" />
     <Compile Include="AccountBalanceReportMaker.cs" />
+    <Compile Include="ChargesReportMaker.cs" />
     <Compile Include="ReportManager.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

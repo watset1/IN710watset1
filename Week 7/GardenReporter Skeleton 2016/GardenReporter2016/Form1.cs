@@ -30,9 +30,15 @@ namespace GardenReporter2016
             updateDisplay();
         }
 
-        private void btnCharges_Click(object sender, EventArgs e)
+        private void btnBalance_Click(object sender, EventArgs e)
         {
             reportManager.reportMaker = new AccountBalanceReportMaker();
+            updateDisplay();
+        }
+
+        private void btnCharges_Click(object sender, EventArgs e)
+        {
+            reportManager.reportMaker = new ChargesReportMaker();
             updateDisplay();
         }
 
@@ -41,5 +47,7 @@ namespace GardenReporter2016
             reportManager.generateReport(reportManager.reportMaker);
             reportManager.displayReport(listBox1);
         }
+
+        
     }
 }

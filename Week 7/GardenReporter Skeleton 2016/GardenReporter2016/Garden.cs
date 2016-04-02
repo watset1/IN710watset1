@@ -13,6 +13,13 @@ namespace GardenReporter2016
         List<double> currentCharges;
 
         //====================================================
+        public List<double> CurrentCharges
+        {
+            get { return currentCharges; }
+            set { currentCharges = value; }
+        }
+
+        //====================================================
         public string OwnerName
         {
             get { return ownerName; }
