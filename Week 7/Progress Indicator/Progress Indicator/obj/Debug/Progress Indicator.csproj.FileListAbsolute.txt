@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\bin\Debug\Progress Indicator.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress_Indicator.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress_Indicator.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Progress Indicator\Progress Indicator\obj\Debug\Progress Indicator.pdb

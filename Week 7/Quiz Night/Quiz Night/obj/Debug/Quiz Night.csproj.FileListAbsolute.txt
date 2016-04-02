@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\bin\Debug\Quiz Night.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz Night.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz_Night.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz_Night.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz Night.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\bin\Debug\Quiz Night.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\bin\Debug\Quiz Night.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz Night.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Quiz Night\Quiz Night\obj\Debug\Quiz Night.pdb
