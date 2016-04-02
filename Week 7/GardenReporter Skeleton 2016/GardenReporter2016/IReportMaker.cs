@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GardenReporter2016
 {
-    interface IReportMaker
+    public interface IReportMaker
     {
+        void createReport(List<Garden> gardenList, Report newReport);
     }
 }

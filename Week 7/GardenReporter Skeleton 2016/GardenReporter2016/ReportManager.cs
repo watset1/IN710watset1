@@ -7,28 +7,29 @@ using System.Windows.Forms;
 
 namespace GardenReporter2016
 {
-    public class DisplayManager
+    public class ReportManager
     {
         GardenManager gardenManager;
-        Report report;
+        Report newReport;
+        public IReportMaker reportMaker;
 
-        public DisplayManager()
+        public ReportManager()
         {
             gardenManager = new GardenManager();
-            report = new Report();
+            newReport = new Report();
         }
 
-        public void generateReport(String reportType)
+        public void generateReport(IReportMaker reportMaker)
         {
-            List<Garden> gardenList = gardenManager.gardenList;
-            report.reportType = reportType;
-            report.createReport(gardenList, reportType);
+            newReport.currentReportContent.Clear();
+            reportMaker.createReport(gardenManager.gardenList, newReport);
+            newReport.generateReport(gardenManager.gardenList, newReport);
         }
 
         public void displayReport(ListBox listBox)
         {
             clearReport(listBox);
-            foreach (String line in report.createdReport)
+            foreach (String line in newReport.currentReportContent)
             {
                 listBox.Items.Add(line);
             }

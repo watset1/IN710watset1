@@ -12,8 +12,8 @@ namespace GardenReporter2016
 {
     public partial class Form1 : Form
     {
-        DisplayManager displayManager;
-
+        ReportManager reportManager;
+        
         public Form1()
         {
             InitializeComponent();
@@ -21,19 +21,25 @@ namespace GardenReporter2016
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            displayManager = new DisplayManager();
+            reportManager = new ReportManager();
         }
 
         private void btnArea_Click(object sender, EventArgs e)
         {
-            displayManager.generateReport("area");
-            displayManager.displayReport(listBox1);
+            reportManager.reportMaker = new AreaReportMaker();
+            updateDisplay();
         }
 
         private void btnCharges_Click(object sender, EventArgs e)
         {
-            displayManager.generateReport("charges");
-            displayManager.displayReport(listBox1);
+            reportManager.reportMaker = new AccountBalanceReportMaker();
+            updateDisplay();
+        }
+
+        public void updateDisplay()
+        {
+            reportManager.generateReport(reportManager.reportMaker);
+            reportManager.displayReport(listBox1);
         }
     }
 }
