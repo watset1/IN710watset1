@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\bin\Debug\Fire Alarm.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\bin\Debug\Fire Alarm.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\bin\Debug\Fire Alarm.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\obj\Debug\Fire_Alarm.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\obj\Debug\Fire_Alarm.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\obj\Debug\Fire Alarm.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\obj\Debug\Fire Alarm.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Fire Alarm\Fire Alarm\obj\Debug\Fire Alarm.pdb
