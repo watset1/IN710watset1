@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\bin\Debug\Petrol Bots.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\obj\Debug\Petrol_Bots.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\obj\Debug\Petrol_Bots.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\obj\Debug\Petrol Bots.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\bin\Debug\Petrol Bots.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\bin\Debug\Petrol Bots.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\obj\Debug\Petrol Bots.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 8\Petrol Bots\Petrol Bots\obj\Debug\Petrol Bots.pdb
