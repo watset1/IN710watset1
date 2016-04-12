@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\bin\Debug\City Database.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City Database.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City_Database.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City_Database.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City Database.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\bin\Debug\City Database.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\bin\Debug\City Database.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City Database.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\City Database\City Database\obj\Debug\City Database.pdb
