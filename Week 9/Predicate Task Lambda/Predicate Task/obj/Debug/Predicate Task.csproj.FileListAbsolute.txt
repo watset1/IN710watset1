@@ -1,0 +1,17 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\bin\Debug\Predicate Task.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\bin\Debug\Predicate Task.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\bin\Debug\Predicate Task.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\obj\Debug\Predicate_Task.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\obj\Debug\Predicate_Task.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\obj\Debug\Predicate Task.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\obj\Debug\Predicate Task.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 7\Predicate Task\Predicate Task\obj\Debug\Predicate Task.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\bin\Debug\Predicate Task.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate Task.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate Task.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\bin\Debug\Predicate Task.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\bin\Debug\Predicate Task.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate Task.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate_Task.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate_Task.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\Predicate Task Lambda\Predicate Task\obj\Debug\Predicate Task.csproj.GenerateResource.Cache
