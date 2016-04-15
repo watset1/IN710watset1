@@ -45,8 +45,11 @@ namespace City_Database
 
         private void populateComboBox()
         {
-            cityList.ForEach(c => {if (!comboBox1.Items.Contains(c.CountryName)) { comboBox1.Items.Add(c.CountryName); } });
+            cityList.ForEach(c => { if (!comboBox1.Items.Contains(c.CountryName)) { comboBox1.Items.Add(c.CountryName); } });
         }
+
+        //How the functio should look
+        //Func<List<City>, string, List<City>> SearchByCountry = (cities, searchCountry) => cities.FindAll(c => c.CountryName.Equals(searchCountry));
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -57,6 +60,7 @@ namespace City_Database
                 listBox1.Items.Add(String.Format("{0,-15}\t{1,-15}\t{2}", "City", "Population", "Country"));
                 listBox1.Items.Add("=======================================================================");
                 String country = comboBox1.Text.ToString();
+                //SearchByCountry(cityList, country);
                 cityList.ForEach(c => { if (c.CountryName == country) { listBox1.Items.Add(c.ToString()); } });
             }
         } 

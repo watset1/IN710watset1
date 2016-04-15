@@ -34,6 +34,14 @@ namespace Predicate_Task
                 listBox1.Items.Add(num.ToString());
         }
 
+        //Add lambda filter
+        private void LambdaFilter(Predicate<int> filter)
+        {
+            listBox2.Items.Clear();
+
+            //List<int> filtered = allNumbers.FindAll()
+        }
+
         private void btnEvens_Click(object sender, EventArgs e)
         {
             listBox2.Items.Clear();
