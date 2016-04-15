@@ -50,12 +50,15 @@ namespace City_Database
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Clear();
-            listBox1.Items.Add("=======================================================================");
-            listBox1.Items.Add(String.Format("{0,-15}\t{1,15}\t{2,15}", "City", "Population", "Country"));
-            listBox1.Items.Add("=======================================================================");
-            String country = comboBox1.Text.ToString();
-            cityList.ForEach(c => { if (c.CountryName == country) { listBox1.Items.Add(c.ToString()); } });
+            if (comboBox1.Text != "")
+            {
+                listBox1.Items.Clear();
+                listBox1.Items.Add("=======================================================================");
+                listBox1.Items.Add(String.Format("{0,-15}\t{1,-15}\t{2}", "City", "Population", "Country"));
+                listBox1.Items.Add("=======================================================================");
+                String country = comboBox1.Text.ToString();
+                cityList.ForEach(c => { if (c.CountryName == country) { listBox1.Items.Add(c.ToString()); } });
+            }
         } 
 
         private void populationChangeMethod()

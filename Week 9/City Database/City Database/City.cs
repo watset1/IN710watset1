@@ -21,7 +21,7 @@ namespace City_Database
 
         public override string ToString()
         {
-            return String.Format("{0,-15}\t{1,15}\t{2,15}",CityName,Population,CountryName);
+            return String.Format("{0,-15}\t{1,-15}\t{2}",CityName,Population,CountryName);
         }
     }
 }
