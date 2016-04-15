@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\bin\Debug\XML Practical.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\bin\Debug\XML Practical.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\bin\Debug\XML Practical.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML_Practical.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML_Practical.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML Practical.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML Practical.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML Practical.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 9\XML Practical\XML Practical\obj\Debug\XML Practical.csprojResolveAssemblyReference.cache
