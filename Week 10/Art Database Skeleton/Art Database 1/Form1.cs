@@ -67,6 +67,7 @@ namespace Art_Database_1
             clearListBox();
             IEnumerable<Painting> allPaintings = from p in paintings
                                where p.Equals(p)
+                               orderby p.Artist
                                select p;
 
             foreach (Painting painting in allPaintings)
@@ -85,6 +86,7 @@ namespace Art_Database_1
             clearListBox();
             IEnumerable<Artist> italianArtists = from a in artists
                                  where a.Country.Equals("Italy")
+                                 orderby a.LastName
                                  select a;
 
             foreach (Artist artist in italianArtists)
@@ -103,6 +105,7 @@ namespace Art_Database_1
             clearListBox();
             IEnumerable<Painting> paintingsPre1800 = from p in paintings
                                  where p.Year < 1800
+                                 orderby p.Year
                                  select p;
 
             foreach (Painting painting in paintingsPre1800)
@@ -129,8 +132,7 @@ namespace Art_Database_1
             clearListBox();
             string searchInput = textBox1.Text;
             var artistSearch = from p in paintings
-                                   join a in artists on p.Artist equals a.LastName
-                                   where a.LastName.Equals(searchInput)
+                                   where p.Artist.Equals(searchInput)
                                    select p;
 
             foreach (Painting painting in artistSearch)
@@ -146,6 +148,27 @@ namespace Art_Database_1
         private void btnNbyCountry_Click(object sender, EventArgs e)
         {
             clearListBox();
+            var countryQuery = from p in paintings
+                               join a in artists on p.Artist equals a.LastName
+                               where p.Equals(p)
+                               group p by a.Country into countryPaintings
+                               select countryPaintings;
+
+            var country = from c in countryQuery
+                          where c.Equals(c)
+                          orderby c.Count()
+                          select c;
+
+            foreach (var paintingList in country)
+            {
+                int numberOfPaintings = paintingList.Count();
+                string wordChoice = "";
+                if (numberOfPaintings > 1)
+                    wordChoice = " paintings from ";
+                else
+                    wordChoice = " painting from ";
+                listBox1.Items.Add(numberOfPaintings + wordChoice + paintingList.Key);
+            }
         }
 
         //------------------------------------------------------
@@ -153,7 +176,21 @@ namespace Art_Database_1
         //------------------------------------------------------
         private void button8_Click(object sender, EventArgs e)
         {
-            clearListBox();        
+            clearListBox();
+            var artistGroupQuery = from a in artists
+                                   where a.Equals(a)
+                                   group a by a.Country into countryArtists
+                                   orderby countryArtists.Key
+                                   select countryArtists;
+
+            foreach (var a in artistGroupQuery)
+            {
+                listBox1.Items.Add(a.Key + ":");
+                foreach (var artistName in a)
+                {
+                    listBox1.Items.Add("\t" + artistName.FirstName + " " + artistName.LastName);
+                }
+            }
         }
 
         //------------------------------------------------------
@@ -162,6 +199,16 @@ namespace Art_Database_1
         private void button7_Click(object sender, EventArgs e)
         {
             clearListBox();
+            var dutchPaintings = from p in paintings
+                                 join a in artists on p.Artist equals a.LastName
+                                 where a.Country.Equals("Netherlands")
+                                 select new { a.FirstName, a.LastName, p.Year, p.Method, p.Title};
+
+            foreach (var p in dutchPaintings)
+            {
+                String line = String.Format("{0} {1,-20}\t{2,-20}\t{3,-30}\t{4}", p.FirstName, p.LastName, p.Year.ToString(), p.Method, p.Title);
+                listBox1.Items.Add(line);
+            }
         }
 
         //------------------------------------------------------
@@ -170,6 +217,17 @@ namespace Art_Database_1
         private void button4_Click(object sender, EventArgs e)
         {
             clearListBox();
+            var jointAllPaintings = from p in paintings
+                                    join a in artists on p.Artist equals a.LastName
+                                    where p.Equals(p)
+                                    orderby a.LastName
+                                    select new { a.FirstName, a.LastName, a.Country, p.Title };
+
+            foreach (var p in jointAllPaintings)
+            {
+                String line = String.Format("{0} {1,-20}\t{2,-20}\t{3}", p.FirstName, p.LastName, p.Country, p.Title);
+                listBox1.Items.Add(line);
+            }
         }
 
         //------------------------------------------------------
@@ -178,6 +236,18 @@ namespace Art_Database_1
         private void button9_Click(object sender, EventArgs e)
         {
             clearListBox();
+            var frenchItalianPaintings = from p in paintings
+                                         join a in artists on p.Artist equals a.LastName
+                                         where a.Country.Equals("Italy") || a.Country.Equals("France")
+                                         orderby a.Country, p.Artist
+                                         select new { p.Artist, a.Country, p.Title };
+
+            foreach (var p in frenchItalianPaintings)
+            {
+                String line = String.Format("{0,-20}\t{1,-20}\t{2}", p.Artist, p.Country, p.Title);
+                listBox1.Items.Add(line);
+            }
+                                         
         }
 
         private void clearListBox()
