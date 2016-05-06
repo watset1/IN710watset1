@@ -1,0 +1,9 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\bin\Debug\LightningMonitor.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\bin\Debug\LightningMonitor.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\bin\Debug\LightningMonitor.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\LightningMonitor\LightningMonitor\obj\Debug\LightningMonitor.csprojResolveAssemblyReference.cache
