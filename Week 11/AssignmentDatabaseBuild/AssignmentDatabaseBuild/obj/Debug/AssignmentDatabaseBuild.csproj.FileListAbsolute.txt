@@ -1,0 +1,10 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 10\AssignmentDatabaseBuild\AssignmentDatabaseBuild\bin\Debug\AssignmentDatabaseBuild.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\bin\Debug\AssignmentDatabaseBuild.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\bin\Debug\AssignmentDatabaseBuild.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\bin\Debug\AssignmentDatabaseBuild.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\AssignmentDatabaseBuild\AssignmentDatabaseBuild\obj\Debug\AssignmentDatabaseBuild.pdb
