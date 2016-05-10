@@ -1,0 +1,8 @@
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\bin\Debug\Assignment Queries.exe.config
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\bin\Debug\Assignment Queries.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\bin\Debug\Assignment Queries.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment_Queries.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment_Queries.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.pdb
