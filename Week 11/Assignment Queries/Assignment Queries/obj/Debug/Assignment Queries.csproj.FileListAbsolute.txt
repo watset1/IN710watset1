@@ -6,3 +6,4 @@ C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assign
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.csproj.GenerateResource.Cache
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.exe
 C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Assignment Queries\Assignment Queries\obj\Debug\Assignment Queries.csprojResolveAssemblyReference.cache

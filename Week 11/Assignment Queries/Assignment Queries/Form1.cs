@@ -13,29 +13,33 @@ namespace Assignment_Queries
     public partial class Form1 : Form
     {
         DatabaseManager dbManager;
-        DataGridViewRowCollection gridRow;
 
         public Form1()
         {
             InitializeComponent();
             dbManager = new DatabaseManager();
-            gridRow = dataGridView1.Rows;
         }
 
         private void btnPaperList_Click(object sender, EventArgs e)
         {
             clearGrid();
-            dbManager.GetPaperTutorInfo(dataGridView1, gridRow);
+            dbManager.GetPaperTutorInfo(dataGridView1);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             clearGrid();
-            dbManager.GetNextTwoWeeksAssignments(dataGridView1, gridRow);
+            dbManager.GetNextTwoWeeksAssignments(dataGridView1);
+        }
+
+        private void btnAverage_Click(object sender, EventArgs e)
+        {
+            clearGrid();
+            dbManager.GetAverageMark(dataGridView1);
         }
 
         private void clearGrid()
-        {            
+        {
             dataGridView1.Rows.Clear();
             dataGridView1.Columns.Clear();
         }
