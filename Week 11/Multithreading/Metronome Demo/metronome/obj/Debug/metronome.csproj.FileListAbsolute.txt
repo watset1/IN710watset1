@@ -38,3 +38,11 @@ E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN7
 E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
 E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
 E:\Users\Patricia\Documents\Work\IN710 OOSD 2016\IN710_2016_TeachingSessions\IN710 OOSD 2016 Week 11\IN710 OOSD 2016 11.2 Threading Skeletons\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\bin\Debug\metronome.exe
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\bin\Debug\metronome.pdb
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.Form1.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.Properties.Resources.resources
+C:\Users\Emerson\Documents\GitHub\IN710watset1\Week 11\Multithreading\Metronome Demo\metronome\obj\Debug\metronome.csproj.GenerateResource.Cache

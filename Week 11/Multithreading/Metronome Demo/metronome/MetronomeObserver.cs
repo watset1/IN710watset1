@@ -10,6 +10,8 @@ using System.Media;
 
 namespace metronome
 {
+    delegate void UpdateForm(metronomeEventArgs e);
+
     public class MetronomeObserver
     {
         protected Metronome metronome;
@@ -63,7 +65,20 @@ namespace metronome
 
         public override void onMetronomeEvent(object sender, metronomeEventArgs e)
         {
-                spinBox.Value++;  
+            if (this.spinBox.InvokeRequired)
+            {
+                UpdateForm updateForm = new UpdateForm(UpdateSpinBox);
+                spinBox.Invoke(updateForm, new object[] { e });
+            }
+            else
+            {
+                UpdateSpinBox(e);
+            } 
+        }
+
+        public void UpdateSpinBox(metronomeEventArgs e)
+        {
+            spinBox.Value++;
         }
     } // end TCounter
 
@@ -81,8 +96,21 @@ namespace metronome
 
         public override void onMetronomeEvent(object sender, metronomeEventArgs e)
         {
+            if (this.listBox.InvokeRequired)
+            {
+                UpdateForm updateForm = new UpdateForm(UpdateListBox);
+                listBox.Invoke(updateForm, new object[] { e });
+            }
+            else
+            {
+                UpdateListBox(e);
+            }   
+        }
+
+        public void UpdateListBox(metronomeEventArgs e)
+        {
             DateTime currDateTime = e.currentTime;
-            listBox.Items.Add(currDateTime.ToString());         
+            listBox.Items.Add(currDateTime.ToString()); 
         }
     }
 
