@@ -11,20 +11,23 @@ namespace Animal_Noises
     {
         private SoundPlayer soundPlayer;
         private String soundFileName;
+        private Form1 form;
 
-        public Animal(String soundFileName)
+        public Animal(String soundFileName, Form1 form)
         {
             soundPlayer = new SoundPlayer(soundFileName);
+            this.form = form;
         }
 
         public void speak()
         {
             while (true)
             {
-                    soundPlayer.Play();
-                    Thread.Sleep(500);
+                lock (form)
+                {
+                    soundPlayer.PlaySync();
+                }
             }
         }
-
     }
 }

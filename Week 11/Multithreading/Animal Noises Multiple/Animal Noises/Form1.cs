@@ -31,9 +31,9 @@ namespace Animal_Noises
             animalList = new List<Animal>();
             threadList = new List<Thread>();
 
-            animalList.Add(new Animal("frog.wav"));
-            animalList.Add(new Animal("duck.wav"));
-            animalList.Add(new Animal("meow.wav"));
+            animalList.Add(new Animal("frog.wav", this));
+            animalList.Add(new Animal("duck.wav", this));
+            animalList.Add(new Animal("meow.wav", this));
 
             for (int i = 0; i < animalList.Count; i++)
                 threadList.Add(new Thread(animalList[i].speak)); 
@@ -50,5 +50,6 @@ namespace Animal_Noises
         }
 
 
+    
     }
 }
