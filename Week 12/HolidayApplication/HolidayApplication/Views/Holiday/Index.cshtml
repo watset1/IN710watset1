@@ -1,0 +1,21 @@
+﻿@model HolidayApplication.Models.Holiday
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h1>@Model.Name - @Model.Date.ToString("dd/MM")</h1>
+        <p>It is @Model.DaysTo days until @Model.Name</p>
+        <img src="/Images/@Model.ImageFile" />
+    </div>
+</body>
+</html>
