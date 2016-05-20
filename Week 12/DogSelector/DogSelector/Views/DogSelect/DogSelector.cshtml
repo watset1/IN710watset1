@@ -1,0 +1,124 @@
+﻿@model DogSelector.Models.Dog
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>DogSelector</title>
+</head>
+<body>
+    <div class="content"> 
+        <div class="title">
+            <h1>Dog Selector</h1>
+        </div>
+        <form class="preferenceForm" action="DogSelector" method="post">
+            <p>Must be good with children:</p>
+            <input type="radio" name="GoodWithChildren" value="true" />Yes<br />
+            <input type="radio" name="GoodWithChildren" value="false" />No<br />
+            <br />
+            <p>Drools:</p>
+            <input type="radio" name="Drools" value="false" />Definately not<br />
+            <input type="radio" name="Drools" value="true" />Don't mind<br />
+            <br />
+            <p>Coat Length:</p>
+            <input type="radio" name="Coatlength" value="0" />Short<br />
+            <input type="radio" name="Coatlength" value="1" />Medium<br />
+            <input type="radio" name="Coatlength" value="2" />Long<br />
+            <br />
+            <p>Preferences:</p>
+            <table class="preferenceTable">
+                <thead>
+                    <tr>
+                        <th></th><th>Low</th><th>Medium</th><th>High</th><th>No Preference</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <label for='ActivityLevel'>Activity level</label>
+                        </td>
+                        <td>
+                            <input type="radio" id="Activitylevel" name="ActivityLevel" value="0" />
+                        </td>
+                        <td>
+                            <input type="radio" id="Activitylevel" name="ActivityLevel" value="1" />
+                        </td>
+                        <td>
+                            <input type="radio" id="Activitylevel" name="ActivityLevel" value="2" />
+                        </td>
+                        <td>
+                            <input type="radio" id="Activitylevel" name="ActivityLevel" value="3" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for='SheddingLevel'>Shedding level</label>
+                        </td>
+                        <td>
+                            <input type="radio" id="SheddingLevel" name="SheddingLevel" value="0" />
+                        </td>
+                        <td>
+                            <input type="radio" id="SheddingLevel" name="SheddingLevel" value="1" />
+                        </td>
+                        <td>
+                            <input type="radio" id="SheddingLevel" name="SheddingLevel" value="2" />
+                        </td>
+                        <td>
+                            <input type="radio" id="SheddingLevel" name="SheddingLevel" value="3" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for='GroomingLevel'>Grooming level</label>
+                        </td>
+                        <td>
+                            <input type="radio" id="GroomingLevel" name="GroomingLevel" value="0" />
+                        </td>
+                        <td>
+                            <input type="radio" id="GroomingLevel" name="GroomingLevel" value="1" />
+                        </td>
+                        <td>
+                            <input type="radio" id="GroomingLevel" name="GroomingLevel" value="2" />
+                        </td>
+                        <td>
+                            <input type="radio" id="GroomingLevel" name="GroomingLevel" value="3" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for='IntelligenceLevel'>Intelligence level</label>
+                        </td>
+                        <td>
+                            <input type="radio" id="IntelligenceLevel" name="IntelligenceLevel" value="0" />
+                        </td>
+                        <td>
+                            <input type="radio" id="IntelligenceLevel" name="IntelligenceLevel" value="1" />
+                        </td>
+                        <td>
+                            <input type="radio" id="IntelligenceLevel" name="IntelligenceLevel" value="2" />
+                        </td>
+                        <td>
+                            <input type="radio" id="IntelligenceLevel" name="IntelligenceLevel" value="3" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Preferred Size:</p>
+            <select name="Size">
+                <option value="0">Miniature</option>
+                <option value="1">Small</option>
+                <option value="2">Medium</option>
+                <option value="3">Large</option>
+                <option value="4">Giant</option>
+            </select>
+            <input class="submitButton" type="submit" value="Find a Suitable Dog!" />
+        </form>
+    </div>
+</body>
+</html>

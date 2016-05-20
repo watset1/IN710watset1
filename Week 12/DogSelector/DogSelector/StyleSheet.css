@@ -1,0 +1,119 @@
+﻿body {
+    font-family: 'Bookman Old Style';
+    background-color: lightgray;
+}
+
+.title{
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.preferenceForm{
+    border: 1px solid black;
+    width: 780px;
+    margin: auto;
+    padding: 10px;
+}
+
+.preferenceTable table{
+	font-size:20px;
+	color:#333333; 
+    margin: auto; 
+}
+
+.preferenceTable th {
+	border: 1px solid #666666;
+	padding: 10px;
+	background-color: #dedede;
+}
+
+.preferenceTable td {
+	padding: 10px;
+    width: 130px;
+    border: 1px solid #666666;
+	background-color: #ffffff;
+    text-align: center;
+}
+
+.preferenceForm select{
+    font-family:'Bookman Old Style';
+    font-size: 20px;
+}
+
+.preferenceForm input{
+    font-size: 20px;
+}
+
+.submitButton{
+    float: right;
+}
+
+.content{
+    display: table;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.container{
+    display: table;
+    margin-left: 35px;
+}
+
+.image{
+    float:left;
+    height:auto;
+}
+
+.image img{
+    width: 450px;
+    border-radius: 4px;
+}
+
+.qualities{
+    float: left;
+    clear: right;
+    font-size: 20px;
+}
+
+.qualities td,tr{
+    border:1px solid black;
+    border-collapse: collapse;
+    border-spacing: 1px 1px;
+}
+
+.qualities td{
+    padding: 3px;
+    background-color: lightgray;
+}
+
+.backButton{
+    display: block;
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.backButton a{
+    float:right;
+    margin-right: 35px;
+    border: 2px solid black;
+    background-color: lightgray;
+    padding: 5px;
+}
+
+.errorMessage{
+    width: 800px;
+    text-align: center;
+    font-size: 30px;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
